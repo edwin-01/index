@@ -1,0 +1,44 @@
+
+
+
+body {
+    background-image: url("../img/agua.webp");
+background-color: aqua;};
+
+
+
+.t1:hover{
+    color: rgba(255, 0, 0, 61);
+    font-size: large;
+    background-color: seagreen;
+
+}
+
+
+.btn1{
+    text-decoration: none;
+    border: 3px solid blue;
+    padding: 10px 30px;
+    background-color: rgb(106, 240, 233);
+    border-radius: 5px;
+    position: absolute;
+}
+
+.btn1:hover{
+    background-color: white;
+}
+
+.btn2{
+    text-decoration: none;
+    border: 3px solid blue;
+    padding: 10px 30px;
+    background-color: rgb(75, 230, 230);
+    border-radius: 5px;
+    position: absolute;
+    left:300px;
+}
+.btn2:hover{
+    background-color: white;
+
+
+
